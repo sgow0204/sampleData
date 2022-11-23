@@ -1,4 +1,5 @@
-3,"Kilback, Stoltenberg and Mertz",Canada,S.S.S. Group,CA,CA,QC,Canada,Québec,Anthony Berry,47.8191364,-69.5611735,Rivière-du-Loup
+CUST_ACCT_SITE_ID,CUSTOMER_TIER3,CUSTOMER_TIER5,CUSTOMER_TIER6,CUSTOMER_COUNTRY,COUNTRY,STATE_CODE,REGION,STATE,PRIMARY_SALES_REP_NAME,LATITUDE,LONGITUDE,CITY
+3,"Kilback, Stoltenberg and Mertz",Canada,S.S.S. Group,CA,CA,QC,Canada,Qu≈Ωbec,Anthony Berry,47.8191364,-69.5611735,Rivi¬ère-du-Loup
 7,Carter Inc,Canada,Prasco Group,CA,CA,BC,Canada,British Columbia,Samuel Fowler,49.1879411,-124.0025429,Nanaimo
 13,Wisozk LLC,Canada,Ole Group,CA,CA,ON,Canada,Ontario,Todd Roberts,43.1315785,-79.1040432,Niagara Falls
 19,Buckridge Inc,Canada,Wuxi Group,CA,CA,AB,Canada,Alberta,Keith Griffin,52.4630512,-113.7286241,Lacombe
@@ -10,11 +11,11 @@
 45,Steuber-Wolff,Canada,Ole Group,CA,CA,SK,Canada,Saskatchewan,Keith Griffin,51.91682,-109.13479,Kerrobert
 48,"Becker, Dicki and Prosacco",Canada,S.S.S. Group,CA,CA,AB,Canada,Alberta,Donald Reynolds,53.2580126,-113.5502218,Leduc
 52,Beahan LLC,Canada,Wuxi Group,CA,CA,ON,Canada,Ontario,Samuel Fowler,45.5483729,-75.2916118,Clarence-Rockland
-54,Parker-Bosco - HIPAA ,Canada,Amylin Group,CA,CA,QC,Canada,Québec,Joshua Ryan,46.0845,-71.9782415,Victoriaville
-55,Schaden-Jerde,Canada,Uriel Group,CA,CA,QC,Canada,Québec,Joshua Little,46.58624,-71.20892,Saint-Lambert-de-Lauzon
+54,Parker-Bosco - HIPAA ,Canada,Amylin Group,CA,CA,QC,Canada,Qu≈Ωbec,Joshua Ryan,46.0845,-71.9782415,Victoriaville
+55,Schaden-Jerde,Canada,Uriel Group,CA,CA,QC,Canada,Qu≈Ωbec,Joshua Little,46.58624,-71.20892,Saint-Lambert-de-Lauzon
 56,"Larkin, Sawayn and Feest",Canada,Pure Group,CA,CA,BC,Canada,British Columbia,George Lewis,51.29995,-116.9689,Golden
 57,Sanford LLC,Canada,S.S.S. Group,CA,CA,ON,Canada,Ontario,Donald Reynolds,43.88793,-81.31145,Wingham
-61,Schaden Group,Canada,Ole Group,CA,CA,QC,Canada,Québec,Joe Price,48.3705292,-71.2653479,Jonquière
-62,Conroy Group,Canada,Wuxi Group,CA,CA,QC,Canada,Québec,Carl Nguyen,46.7530428,-71.2196569,Lévis
-64,"Cummerata, Davis and Lindgren",Canada,Ole Group,CA,CA,QC,Canada,Québec,Joshua Bennett,45.5833482,-73.4372336,Boucherville
+61,Schaden Group,Canada,Ole Group,CA,CA,QC,Canada,Qu≈Ωbec,Joe Price,48.3705292,-71.2653479,Jonqui¬ère
+62,Conroy Group,Canada,Wuxi Group,CA,CA,QC,Canada,Qu≈Ωbec,Carl Nguyen,46.7530428,-71.2196569,L≈Ωvis
+64,"Cummerata, Davis and Lindgren",Canada,Ole Group,CA,CA,QC,Canada,Qu≈Ωbec,Joshua Bennett,45.5833482,-73.4372336,Boucherville
 66,Deckow and Sons - HIPAA ,Canada,Amylin Group,CA,CA,MB,Canada,Manitoba,Joshua Bennett,51.1500374,-100.0497004,Dauphin
