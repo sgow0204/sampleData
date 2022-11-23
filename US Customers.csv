@@ -1,0 +1,35 @@
+CUST_ACCT_SITE_ID,CUSTOMER_TIER3,CUSTOMER_TIER5,CUSTOMER_TIER6,CUSTOMER_COUNTRY,COUNTRY,STATE_CODE,REGION,STATE,PRIMARY_SALES_REP_NAME,LATITUDE,LONGITUDE,CITY
+1,"Wilderman, VonRueden and Berge",United States,Ole Group,US,US,DC,South,District of Columbia,Anthony Torres,38.8965627,-77.0224418,Washington
+2,Homenick-Frami,United States,Medsep Group,US,US,FL,South,Florida,Anthony Berry,41.7396715,-85.9262162,Clearwater
+6,"Buckridge, Kutch and Collier",United States,Wuxi Group,US,US,MN,Midwest,Minnesota,Anthony Torres,44.9688472,-93.1315648,Saint Paul
+8,Brown-Hilll,United States,Prasco Group,US,US,NY,Northeast,New York,Adam Hernandez,40.7051078,-74.0056827,New York City
+9,Trantow LLC,United States,Ole Group,US,US,OK,South,Oklahoma,Samuel Fowler,35.4674683,-97.4996835,Oklahoma City
+12,Schumm Group,United States,Ole Group,US,US,MA,Northeast,Massachusetts,Roger Alexander,40.7679191,-93.3362962,Newton
+16,Runte-Jerde,United States,Pure Group,US,US,KS,Midwest,Kansas,Carl Nguyen,39.02,-94.72,Shawnee Mission
+17,Bergstrom-Grimes - HIPAA ,United States,Amylin Group,US,US,IN,Midwest,Indiana,Joshua Ryan,38.03,-87.58,Evansville
+18,Rempel-Beahan - HIPAA ,United States,Wuxi Group,US,US,IN,Midwest,Indiana,Joshua Bennett,39.8911731,-86.2869507,Indianapolis
+20,Donnelly and Sons,United States,Ole Group,US,US,LA,South,Louisiana,Nicholas Cunningham,30.4,-91.08,Baton Rouge
+21,Shields Group - HIPAA ,United States,Amylin Group,US,US,UT,West,Utah,Roger Alexander,40.2299999,-111.66,Provo
+22,Lueilwitz-Bogisich,United States,Wuxi Group,US,US,TX,South,Texas,Frank Brown,44.934021,-123.3072848,Dallas
+23,Emard-Jakubowski - HIPAA ,United States,Amylin Group,US,US,TX,South,Texas,Jonathan Hawkins,31.7566264,-106.4852997,El Paso
+25,"Cummings, Labadie and Yost",United States,Prasco Group,US,US,TX,South,Texas,Keith Griffin,31.77,-106.43,El Paso
+26,"Gottlieb, O'Connell and Grimes",United States,Wuxi Group,US,US,AZ,West,Arizona,Frank Brown,32.2680738,-110.9923904,Tucson
+28,King LLC,United States,Medsep Group,US,US,LA,South,Louisiana,Paul Holmes,32.51,-93.75,Shreveport
+30,"Wolff, Abshire and Stokes - HIPAA ",United States,Uriel Group,US,US,CT,Northeast,Connecticut,Joshua Ryan,41.7721061,-72.7038047,Hartford
+34,"Kuhlman, Auer and Bogan - HIPAA ",United States,Amylin Group,US,US,TX,South,Texas,Joshua Little,29.9997656,-95.1744903,Humble
+37,Murphy LLC,United States,Wuxi Group,US,US,NJ,Northeast,New Jersey,Samuel Fowler,39.9175385,-75.1136721,Camden
+38,Wyman and Sons,United States,Pure Group,US,US,CT,Northeast,Connecticut,Anthony Berry,41.3052226,-72.9268626,New Haven
+39,"Lakin, Batz and Bode - HIPAA ",United States,Amylin Group,US,US,DC,South,District of Columbia,Roger Alexander,38.8978995,-77.0157837,Washington
+40,Harvey Group,United States,Medsep Group,US,US,CA,West,California,Roger Alexander,35.1268513,-119.1855785,Bakersfield
+41,Prohaska-Stoltenberg,United States,S.S.S. Group,US,US,NC,South,North Carolina,Roger Alexander,36.04,-80,High Point
+42,Quitzon-McDermott - HIPAA ,United States,Uriel Group,US,US,MT,West,Montana,Roger Alexander,45.78,-108.5,Billings
+46,"Abshire, O'Hara and Kilback",United States,Medsep Group,US,US,FL,South,Florida,Todd Roberts,25.7564471,-80.2056382,Miami
+47,Emard-Kohler,United States,Prasco Group,US,US,FL,South,Florida,Joshua Bennett,28.0964047,-81.9207423,Lakeland
+51,"Toy, Feest and Breitenberg",United States,Pure Group,US,US,VA,South,Virginia,Anthony Berry,37.9416306,-77.3484049,Richmond
+59,O'Kon-Gerhold,United States,Wuxi Group,US,US,FL,South,Florida,Todd Roberts,41.7396715,-85.9262162,Clearwater
+60,"Sanford, Ledner and Gottlieb - HIPAA ",United States,Prasco Group,US,US,DC,South,District of Columbia,Anthony Berry,38.9,-77.04,Washington
+67,"Raynor, Langworth and Lind",United States,Prasco Group,US,US,DC,South,District of Columbia,Todd Roberts,38.86,-76.99,Washington
+68,Bins and Sons,United States,Medsep Group,US,US,CA,West,California,Paul Holmes,39.7284944,-121.8374777,Chico
+71,"Parisian, Lebsack and Kihn",United States,Ole Group,US,US,TX,South,Texas,Samuel Fowler,32.886855,-96.967936,Irving
+72,Waelchi-Lang,United States,Pure Group,US,US,DC,South,District of Columbia,Carl Nguyen,38.8978995,-77.0157837,Washington
+73,Bode-Gerhold - HIPAA ,United States,Prasco Group,US,US,IL,Midwest,Illinois,Joe Price,41.7748554,-88.1480775,Naperville
